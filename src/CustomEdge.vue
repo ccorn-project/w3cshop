@@ -80,6 +80,6 @@ export default {
 }
 
 .edgebutton:hover {
-  box-shadow: 0 0 0 2px pink, 0 0 0 4px #f05f75;
+  box-shadow: 0 0 0 2px pink, 0 0 0 4px #5f8ee7;
 }
 </style>
